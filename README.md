@@ -4,6 +4,7 @@ Some of my fellings, came with on time, and left in a moment. I only pick some o
 All of them are witten with Chinese, If you are not familiar with Chinese, please excuse me for my poor writing.
 
 - [朝花夕拾](https://github.com/heibor/ThinkByNightfall/wiki)
+- [JavaScript面向对象](https://github.com/heibor/ThinkByNightfall/wiki/JavaScript%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1)
 - [JavaScript设计模式](https://github.com/heibor/ThinkByNightfall/wiki/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 - [React奇门遁型](https://github.com/heibor/ThinkByNightfall/wiki/React%E5%A5%87%E9%97%A8%E9%81%81%E5%9E%8B)
 - [D3简介](https://github.com/heibor/ThinkByNightfall/wiki/D3%E7%AE%80%E4%BB%8B)
