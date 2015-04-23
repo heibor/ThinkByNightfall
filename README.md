@@ -11,5 +11,5 @@ All of them are witten with Chinese, If you are not familiar with Chinese, pleas
 - [Docker简易教程](https://github.com/heibor/ThinkByNightfall/wiki/Docker%E7%AE%80%E6%98%93%E6%95%99%E7%A8%8B)
 - [Godot简记](https://github.com/heibor/ThinkByNightfall/wiki/Godot%E7%AE%80%E8%AE%B0)
 - [less简介](https://github.com/heibor/ThinkByNightfall/wiki/less-%E6%91%98%E8%A6%81)
-- [lua思考](wiki/Lua%E6%80%9D%E8%80%83)
+- [lua思考](https://github.com/heibor/ThinkByNightfall/wiki/Lua%E6%80%9D%E8%80%83)
 - [threejs入门](https://github.com/heibor/ThinkByNightfall/wiki/threejs%E5%85%A5%E9%97%A8)
