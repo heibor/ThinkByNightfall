@@ -16,4 +16,4 @@ All of them are witten with Chinese, If you are not familiar with Chinese, pleas
 - [Rust一览](https://github.com/heibor/ThinkByNightfall/wiki/Rust%E4%B8%80%E8%A7%88)
 - [threejs入门](https://github.com/heibor/ThinkByNightfall/wiki/threejs%E5%85%A5%E9%97%A8)
 - [支持向量机](https://github.com/heibor/ThinkByNightfall/wiki/Support-Vector-Machine)
-- [无监督学习算法](https://github.com/heibor/ThinkByNightfall/wiki/unsupervise-vector-machine)
+- [无监督学习](https://github.com/heibor/ThinkByNightfall/wiki/unsupervise-vector-machine)
