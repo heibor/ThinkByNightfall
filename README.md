@@ -17,3 +17,4 @@ All of them are witten with Chinese, If you are not familiar with Chinese, pleas
 - [threejs入门](https://github.com/heibor/ThinkByNightfall/wiki/threejs%E5%85%A5%E9%97%A8)
 - [支持向量机](https://github.com/heibor/ThinkByNightfall/wiki/Support-Vector-Machine)
 - [无监督学习](https://github.com/heibor/ThinkByNightfall/wiki/unsupervise-vector-machine)
+- [大规模机器学习](https://github.com/heibor/ThinkByNightfall/wiki/%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
