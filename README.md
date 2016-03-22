@@ -8,6 +8,7 @@ All of them are witten with Chinese, If you are not familiar with Chinese, pleas
 - [JavaScript设计模式](https://github.com/heibor/ThinkByNightfall/wiki/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 - [React奇门遁型](https://github.com/heibor/ThinkByNightfall/wiki/React%E5%A5%87%E9%97%A8%E9%81%81%E5%9E%8B)
 - [D3简介](https://github.com/heibor/ThinkByNightfall/wiki/D3%E7%AE%80%E4%BB%8B)
+- [Redux](https://github.com/heibor/ThinkByNightfall/wiki/Redux)
 - [Docker简易教程](https://github.com/heibor/ThinkByNightfall/wiki/Docker%E7%AE%80%E6%98%93%E6%95%99%E7%A8%8B)
 - [Godot简记](https://github.com/heibor/ThinkByNightfall/wiki/Godot%E7%AE%80%E8%AE%B0)
 - [less简介](https://github.com/heibor/ThinkByNightfall/wiki/less-%E6%91%98%E8%A6%81)
